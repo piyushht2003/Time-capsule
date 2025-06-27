@@ -31,7 +31,7 @@ const timelineData = [
 
 const TimelineSection = () => {
   return (
-    <section className="bg-[#fcf8ec] bg-[url('/images/light-paper-texture.jpg')]  py-20 px-6">
+    <section className="bg-[#fcf8ec] py-20 px-6">
       <h2 className="text-center text-4xl font-['Special_Elite'] text-gray-700 mb-12">
         🕰️ My Journey Through Time
       </h2>

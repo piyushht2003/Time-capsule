@@ -20,9 +20,9 @@ const AboutMe = () => {
         <div className="flex flex-col md:flex-row gap-8 items-center mt-8">
           {/* Your Image */}
           <img
-            src="/images/me.jpg"
+            src="/images/profile.jpg"
             alt="Piyush Singh Thakur"
-            className="w-48 h-48 object-contain rounded-md grayscale border border-[#d6c4a8] shadow-md"
+            className="w-48 h-48 object-cover rounded-md grayscale border border-[#d6c4a8] shadow-md"
           />
 
           {/* Text Content */}

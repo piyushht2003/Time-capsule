@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const HeroSection = () => {
   return (
-    <section className="bg-[#fdf6e3] min-h-screen flex items-center justify-center px-6 font-['Special_Elite']">
+    <section className="bg-[#fdf6e3] min-h-screen flex py-48 justify-center px-6 items-center font-['Special_Elite']">
       <motion.div
         initial={{ opacity: 0, y: 40 }}
         animate={{ opacity: 1, y: 0 }}
